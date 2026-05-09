@@ -247,4 +247,3 @@ project/
 └── README.md
 ```
 
-# AI-Powered-Mock-Interview-Platform
